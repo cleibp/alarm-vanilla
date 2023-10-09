@@ -32,7 +32,7 @@ Exemplificação de aplicação de alarme usando vanilla ou Javascript puro
 
 ## 👋🏽 DEMO
 
-[Publicação em Codepen](https://codepen.io/cleibp/pen/wvxjdKZ) 
+[Publicação em Codepen](https://codepen.io/cleibp/pen/xxmrjXr) 
 
 ## Contatos
 
